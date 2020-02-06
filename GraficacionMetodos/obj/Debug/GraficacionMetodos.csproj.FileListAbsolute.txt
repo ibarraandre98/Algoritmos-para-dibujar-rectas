@@ -1,0 +1,10 @@
+C:\Users\Muski\source\repos\GraficacionMetodos\GraficacionMetodos\bin\Debug\GraficacionMetodos.exe.config
+C:\Users\Muski\source\repos\GraficacionMetodos\GraficacionMetodos\bin\Debug\GraficacionMetodos.exe
+C:\Users\Muski\source\repos\GraficacionMetodos\GraficacionMetodos\bin\Debug\GraficacionMetodos.pdb
+C:\Users\Muski\source\repos\GraficacionMetodos\GraficacionMetodos\obj\Debug\GraficacionMetodos.csprojAssemblyReference.cache
+C:\Users\Muski\source\repos\GraficacionMetodos\GraficacionMetodos\obj\Debug\GraficacionMetodos.Form1.resources
+C:\Users\Muski\source\repos\GraficacionMetodos\GraficacionMetodos\obj\Debug\GraficacionMetodos.Properties.Resources.resources
+C:\Users\Muski\source\repos\GraficacionMetodos\GraficacionMetodos\obj\Debug\GraficacionMetodos.csproj.GenerateResource.cache
+C:\Users\Muski\source\repos\GraficacionMetodos\GraficacionMetodos\obj\Debug\GraficacionMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Muski\source\repos\GraficacionMetodos\GraficacionMetodos\obj\Debug\GraficacionMetodos.exe
+C:\Users\Muski\source\repos\GraficacionMetodos\GraficacionMetodos\obj\Debug\GraficacionMetodos.pdb
